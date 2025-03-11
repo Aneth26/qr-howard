@@ -15,7 +15,8 @@
     "react-router-dom": "^6.30.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/Aneth26/H-A.git"
+    "homepage": "https://Aneth26.github.io/qr-howard"
+
   },
   "scripts": {
     "start": "react-scripts start",
